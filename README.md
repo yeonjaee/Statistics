@@ -1,2 +1,3 @@
-# -
-통계기초 with python libs
+# 통계기초
+with using python libs
+- [Statistics](./Statistics/)
